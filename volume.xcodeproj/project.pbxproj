@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8DD6A1EA21ACBBA10049EC57 /* commercials.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8DD6A1E921ACBB8B0049EC57 /* commercials.mp4 */; };
 		8DF74BB621A37555009536AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF74BB521A37555009536AA /* AppDelegate.swift */; };
 		8DF74BB821A37555009536AA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF74BB721A37555009536AA /* ViewController.swift */; };
 		8DF74BBB21A37555009536AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DF74BB921A37555009536AA /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8DD6A1E921ACBB8B0049EC57 /* commercials.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = commercials.mp4; sourceTree = "<group>"; };
 		8DF74BB221A37555009536AA /* volume.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = volume.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DF74BB521A37555009536AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DF74BB721A37555009536AA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		8DF74BA921A37555009536AA = {
 			isa = PBXGroup;
 			children = (
+				8DD6A1E921ACBB8B0049EC57 /* commercials.mp4 */,
 				8DF74BB421A37555009536AA /* volume */,
 				8DF74BC921A37557009536AA /* volumeTests */,
 				8DF74BD421A37557009536AA /* volumeUITests */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DD6A1EA21ACBBA10049EC57 /* commercials.mp4 in Resources */,
 				8DF74BC021A37557009536AA /* LaunchScreen.storyboard in Resources */,
 				8DF74BBD21A37557009536AA /* Assets.xcassets in Resources */,
 				8DF74BBB21A37555009536AA /* Main.storyboard in Resources */,
